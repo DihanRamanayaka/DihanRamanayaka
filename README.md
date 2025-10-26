@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW." alt="Typing SVG - Be a Nerd Just For Now.">
   </a>
 </div>
-
-<h1 align="left">Yoo !, I'm DihanRamanayaka 👋</h1>
+>
+>
+<h1 align="centre">Yoo !, I'm DihanRamanayaka 👋</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
