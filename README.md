@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Yoo !, I'm DihanRamanayaka 👋</h1>
+<h1 align="left">Yoo !, I'm DihanRamanayaka 👋</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
